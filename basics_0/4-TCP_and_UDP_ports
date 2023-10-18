@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-"""This prints things"""
+# This prints things
 
 netstat -l -p tcp
